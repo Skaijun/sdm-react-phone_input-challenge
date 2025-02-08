@@ -19,3 +19,7 @@
   min-width: 33%;
   font-size: large;
 }
+
+.invalid-input-message {
+  color: rgb(245, 43, 43);
+}
